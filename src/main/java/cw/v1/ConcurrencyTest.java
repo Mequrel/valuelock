@@ -28,11 +28,8 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
-package cw;
+package cw.v1;
 
-import cw.v1.Locker;
-import cw.v1.Mutex;
-import cw.v1.MyLockerImpl;
 import org.openjdk.jcstress.annotations.*;
 import org.openjdk.jcstress.infra.results.IntResult1;
 
